@@ -7,6 +7,12 @@ $ git fetch origin
 $ git checkout gh-pages
 ```
 
+or
+
+```
+c:\> dir /w
+
+```
 If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
 
 ### Designer Templates
